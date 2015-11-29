@@ -1,0 +1,9 @@
+case weather_man
+when 'sunny'
+puts "Suns out guns out"
+when 'snow'
+puts "DO YOU WANNA BUILD A SNOOOOOW MAN???"
+when 'rainy'
+puts "no one will be able to drive in this"
+else 
+puts "It's Tennessee, what did you expect?"
